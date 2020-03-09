@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MongoDriverSample", "MongoDriverSample\MongoDriverSample.csproj", "{17DEE3AF-5773-4C97-9A5E-F0263649794C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17DEE3AF-5773-4C97-9A5E-F0263649794C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17DEE3AF-5773-4C97-9A5E-F0263649794C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17DEE3AF-5773-4C97-9A5E-F0263649794C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17DEE3AF-5773-4C97-9A5E-F0263649794C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {992DCB9B-E8FD-42C0-AEEF-A06E7E51F7CF}
+	EndGlobalSection
+EndGlobal
